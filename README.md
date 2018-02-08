@@ -18,7 +18,7 @@ shapefile with [AMA Nutzungsart Codes](https://www.ama.at/getattachment/f3e9b8ab
 
 ## original
 
-* [original dataset with 2,504,751 polygons](https://files.boku.ac.at:443/ssf/s/readFile/share/5258/3338806601288672444/publicLink/invekos_schlaege_polygon.zip), ESRI shapefile, 507MB
+* [original dataset](https://files.boku.ac.at:443/ssf/s/readFile/share/5258/3338806601288672444/publicLink/invekos_schlaege_polygon.zip), ESRI shapefile, 507MB
 
 * [list of crop types used](https://github.com/wessm/invekos/blob/master/2017/original/list_crop_types.csv) in original dataset (removed 'Ü', 'Ö', 'Ä'), text file, 5KB
 
