@@ -4,11 +4,17 @@
 INVEKOS Schläge Shapefiles from [data.gv.at](https://www.data.gv.at/), modified
 
 
-## 2017/improved_groups
+## improved_groups
 
-for the AMA Codes, see [here](https://www.ama.at/getattachment/f3e9b8ab-8533-49f2-8c97-0daf45b06751/Nutzungsarten_Codes_Varianten.pdf)
+shapefile with [AMA Nutzungsart Codes](https://www.ama.at/getattachment/f3e9b8ab-8533-49f2-8c97-0daf45b06751/Nutzungsarten_Codes_Varianten.pdf) and a second, more general group of crop classicifation added (use at your own risk!)
 
+* [shapefile with the added classes](http://www.com)
 
+* [CSV file](https://github.com/wessm/invekos/blob/master/2017/improved_groups/classification.csv) to explain the classification
+
+* [separate shapefiles](https://) for each AMA Nutzungsart class
+
+* [separate shapefiles](https://) for each general crop type class
 
 ## original
 
@@ -20,10 +26,7 @@ for the AMA Codes, see [here](https://www.ama.at/getattachment/f3e9b8ab-8533-49f
 
 * [list of crop types of all polygons](https://github.com/wessm/invekos/blob/master/2017/original/list_crops_per_polygon.csv), text file, 53MB
 
-#### separate
-
-separate shapefiles for each crop type, taken from original dataset
-
+* [separate shapefiles](https://github.com/wessm/invekos/tree/master/2017/original/separate) for each of the original classes
 
 ### License and Metadata of the original dataset
 
