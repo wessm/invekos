@@ -114,6 +114,7 @@ for l = 1:numel(list_crop)
     crop = strrep(crop, ' ', '_');
     crop = strrep(crop, '(', '');
     crop = strrep(crop, ')', '');
+    crop = strrep(crop, ':', '');
 
     
     %  make directory
@@ -145,22 +146,27 @@ for l = 1:numel(list_crop)
 
     cellfun(@(x) delete([home, dirname, x]), files(1,:));
     
-    %  create TIF
-    %if exist([home, out(1:end-4), '.tif'], 'file') ~= 2
-    %    system(['docker run ', ...
-    %        '-v ', home, ':/data --rm -it ', ...
-    %        gdal, ' gdal_rasterize ', ...
-    %        '-a ID ', ...
-    %        '-l ', layer, ' ', ...
-    %        '-tr 10 10 ', ...
-    %        '-sql "SELECT * FROM ', layer, ' WHERE SNAR_BEZEI LIKE ''%', crop_lookup, '%''" ', ...
-    %        '-init 0 ', ...
-    %        base_dir, invekos_shp, ' ', ...
-    %        out(1:end-4), '.tif']);
-    %end
-
-
 end
+
+
+%% create README
+
+fid=fopen([home, dirname, 'README.md'],'w');
+fprintf(fid, '# INVEKOS 2017 separate files for each "Nutzungsart" from AMA\n\n\n');
+for l = 1:numel(list_crop)
+    
+    
+    crop = list_crop{l};
+    crop = strrep(crop, '/', '-');
+    crop = strrep(crop, ' ', '_');
+    crop = strrep(crop, '(', '');
+    crop = strrep(crop, ')', '');
+    crop = strrep(crop, ':', '');
+    
+    
+    fprintf(fid, ['* [', list_crop{l}, '](https://homepage.boku.ac.at/mwess/2017/original/separate/', crop, '.zip)\n\n']);
+end
+fclose(fid);
     
     
 

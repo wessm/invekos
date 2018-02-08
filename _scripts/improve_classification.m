@@ -112,23 +112,15 @@ end
 
 %% loop through unique list and extract
 
-for l = 1:numel(unique(new_cl_id))
+newclasses = unique(new_cl);
+
+for l = 1:numel(newclasses)
     
 
     
-    %  for lookup
-    crop_lookup = list_crop{l}
-    crop_lookup = strrep(crop_lookup, 'OE', 'Ö');
-    crop_lookup = strrep(crop_lookup, 'UE', 'Ü');
-    crop_lookup = strrep(crop_lookup, 'AE', 'Ä');
-    
+   
     %  remove invalid characters
-    crop = list_crop{l};
-    crop = strrep(crop, '/', '-');
-    crop = strrep(crop, ' ', '_');
-    crop = strrep(crop, '(', '');
-    crop = strrep(crop, ')', '');
-
+    class = newclasses{l}
     
     %  make directory
     dirname = [out_dir, 'separate/'];
@@ -137,7 +129,7 @@ for l = 1:numel(unique(new_cl_id))
         mkdir([home, dirname]);
     end
     
-    out = [dirname, 'invekos2017_', crop, '.shp']; 
+    out = [dirname, 'invekos2017_', class, '.shp']; 
     
     %  subset shape
     if exist([home, out(1:end-4), '.zip'], 'file') ~= 2
@@ -146,38 +138,33 @@ for l = 1:numel(unique(new_cl_id))
             gdal, ' ogr2ogr ', ...
             '-f "ESRI Shapefile" ', ...
             '-dialect SQLite ', ...
-            '-sql "SELECT * FROM ', layer, ' WHERE SNAR_BEZEI LIKE ''%', crop_lookup, '%''" ', ...
+            '-sql "SELECT * FROM ', layer, ' WHERE G1 LIKE ''%', class, '%''" ', ...
             out, ' ', ...
-            base_dir, invekos_shp]);
+            out_dir, new_shp]);
     end
     
     %  compress and delete originals
-    files = struct2cell(dir([home, dirname, 'invekos2017_', crop, '.*']));
+    files = struct2cell(dir([home, dirname, 'invekos2017_', class, '.*']));
     if exist([home, out(1:end-4), '.zip'], 'file') ~= 2
         zip([home, out(1:end-4)], cellfun(@(x) [home, dirname, x], files(1,:), 'uni', false));
     end
 
     cellfun(@(x) delete([home, dirname, x]), files(1,:));
-    
-    %  create TIF
-    %if exist([home, out(1:end-4), '.tif'], 'file') ~= 2
-    %    system(['docker run ', ...
-    %        '-v ', home, ':/data --rm -it ', ...
-    %        gdal, ' gdal_rasterize ', ...
-    %        '-a ID ', ...
-    %        '-l ', layer, ' ', ...
-    %        '-tr 10 10 ', ...
-    %        '-sql "SELECT * FROM ', layer, ' WHERE SNAR_BEZEI LIKE ''%', crop_lookup, '%''" ', ...
-    %        '-init 0 ', ...
-    %        base_dir, invekos_shp, ' ', ...
-    %        out(1:end-4), '.tif']);
-    %end
+
 
 
 end
 
+%%  create README file
 
 
+
+fid=fopen([home, dirname, 'README.md'],'w');
+fprintf(fid, '# INVEKOS 2017 separate files for each group\n\n\n');
+for l = 1:numel(newclasses)
+    fprintf(fid, ['* [', newclasses{l}, '](https://homepage.boku.ac.at/mwess/2017/improved_groups/separate/', newclasses{l}, '.zip)\n\n']);
+end
+fclose(fid);
 
 
 
