@@ -12,9 +12,9 @@ shapefile with [AMA Nutzungsart Codes](https://www.ama.at/getattachment/f3e9b8ab
 
 * [CSV file](https://github.com/wessm/invekos/blob/master/2017/improved_groups/classification.csv) to explain the classification
 
-* [separate shapefiles](https://) for each AMA Nutzungsart class
+* [separate shapefiles](https://github.com/wessm/invekos/tree/master/2017/improved_groups/AMA_Nutzungsarten) for each AMA Nutzungsart class
 
-* [separate shapefiles](https://) for each general crop type class
+* [separate shapefiles](https://github.com/wessm/invekos/tree/master/2017/improved_groups/separate) for each general crop type class
 
 ## original
 
