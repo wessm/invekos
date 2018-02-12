@@ -1,3 +1,4 @@
+
 # INVEKOS Schläge Shapefiles (Polygone)
 
 
@@ -8,7 +9,7 @@ INVEKOS Schläge Shapefiles from [data.gv.at](https://www.data.gv.at/), modified
 
 shapefile with [AMA Nutzungsart Codes](https://www.ama.at/getattachment/f3e9b8ab-8533-49f2-8c97-0daf45b06751/Nutzungsarten_Codes_Varianten.pdf) and a second, more general group of crop classicifation added (use at your own risk!)
 
-* [shapefile with the added classes](http://www.com)
+* [shapefile with the added classes](https://drive.google.com/file/d/1man3FsH3ZINqxtChTQby5iAyXenANYlg/view?usp=sharing)
 
 * [CSV file](https://github.com/wessm/invekos/blob/master/2017/improved_groups/classification.csv) to explain the classification
 
@@ -18,7 +19,7 @@ shapefile with [AMA Nutzungsart Codes](https://www.ama.at/getattachment/f3e9b8ab
 
 ## original
 
-* [original dataset](https://files.boku.ac.at:443/ssf/s/readFile/share/5258/3338806601288672444/publicLink/invekos_schlaege_polygon.zip), ESRI shapefile, 507MB
+* [original dataset](https://drive.google.com/file/d/1QcrFr7wViS2s5lwFIxCnMAjiH36SLqFi/view?usp=sharing), ESRI shapefile, 507MB
 
 * [list of crop types used](https://github.com/wessm/invekos/blob/master/2017/original/list_crop_types.csv) in original dataset (removed 'Ü', 'Ö', 'Ä'), text file, 5KB
 

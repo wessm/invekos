@@ -1,415 +1,415 @@
 # INVEKOS 2017 separate files for each "Nutzungsart" from AMA
 
 
-* [20 JAEHRIGE STILLLEGUNG](https://homepage.boku.ac.at/mwess/2017/original/separate/20_JAEHRIGE_STILLLEGUNG.zip)
+* [20 JAEHRIGE STILLLEGUNG](https://drive.google.com/file/d/1Da26tLd3I5-jzJgjdxA9H5qIEK2B6G9L/view?usp=sharing)
 
-* [ACKERBOHNEN (PUFFBOHNEN)](https://homepage.boku.ac.at/mwess/2017/original/separate/ACKERBOHNEN_PUFFBOHNEN.zip)
+* [ACKERBOHNEN (PUFFBOHNEN)](https://drive.google.com/file/d/1FzkXmjO_QKsMpsPTBG06bMy-ol_J4Qp4/view?usp=sharing)
 
-* [ACKERBOHNEN (PUFFBOHNEN) / FELDGEMUESE](https://homepage.boku.ac.at/mwess/2017/original/separate/ACKERBOHNEN_PUFFBOHNEN_-_FELDGEMUESE.zip)
+* [ACKERBOHNEN (PUFFBOHNEN) / FELDGEMUESE](https://drive.google.com/file/d/1I8RGWzFFsjMkDL1GpcmF0LTPI9o-y--_/view?usp=sharing)
 
-* [ACKERBOHNEN - GETREIDE GEMENGE](https://homepage.boku.ac.at/mwess/2017/original/separate/ACKERBOHNEN_-_GETREIDE_GEMENGE.zip)
+* [ACKERBOHNEN - GETREIDE GEMENGE](https://drive.google.com/file/d/1YjyjClGQdCZyY9Tr67m0Kfxe7QMWITze/view?usp=sharing)
 
-* [ACKERBOHNEN / ERBSENGEMENGE](https://homepage.boku.ac.at/mwess/2017/original/separate/ACKERBOHNEN_-_ERBSENGEMENGE.zip)
+* [ACKERBOHNEN / ERBSENGEMENGE](https://drive.google.com/file/d/1YY-T0Z15rZCuogh1BUfmDYifUYAfl8Sa/view?usp=sharing)
 
-* [ALMFUTTERFLAECHE](https://homepage.boku.ac.at/mwess/2017/original/separate/ALMFUTTERFLAECHE.zip)
+* [ALMFUTTERFLAECHE](https://drive.google.com/file/d/18fAHxcSfUEk6YOsMEKVZE7XItk_iJiNU/view?usp=sharing)
 
-* [AMARANTH](https://homepage.boku.ac.at/mwess/2017/original/separate/AMARANTH.zip)
+* [AMARANTH](https://drive.google.com/file/d/1sydoMEFLkTmwh1Mp4jJQwZd94r8LEQgn/view?usp=sharing)
 
-* [ANDERE DAUERKULTUREN](https://homepage.boku.ac.at/mwess/2017/original/separate/ANDERE_DAUERKULTUREN.zip)
+* [ANDERE DAUERKULTUREN](https://drive.google.com/file/d/1Qz695GmxwtSpD9YoarZ-BiFiBU6KlhYp/view?usp=sharing)
 
-* [ANDERES OBST](https://homepage.boku.ac.at/mwess/2017/original/separate/ANDERES_OBST.zip)
+* [ANDERES OBST](https://drive.google.com/file/d/1kt4OgHdCb2n3EGpiMfX41oJIlP-pih-0/view?usp=sharing)
 
-* [BERGMAEHDER](https://homepage.boku.ac.at/mwess/2017/original/separate/BERGMAEHDER.zip)
+* [BERGMAEHDER](https://drive.google.com/file/d/1-RNWk6XcSYWSHq7OHWYjabev_8C7bF6s/view?usp=sharing)
 
-* [BITTERLUPINEN](https://homepage.boku.ac.at/mwess/2017/original/separate/BITTERLUPINEN.zip)
+* [BITTERLUPINEN](https://drive.google.com/file/d/1LIAPMJMC8n6oqGE2wfnMhBhCzfk7xDCP/view?usp=sharing)
 
-* [BLUMEN UND ZIERPFLANZEN](https://homepage.boku.ac.at/mwess/2017/original/separate/BLUMEN_UND_ZIERPFLANZEN.zip)
+* [BLUMEN UND ZIERPFLANZEN](https://drive.google.com/file/d/1Qji9VCDbCa0NdGghTMHdhCVOQ7_r8Iy3/view?usp=sharing)
 
-* [BLUMEN UND ZIERPFLANZEN IM FOLIENTUNNEL](https://homepage.boku.ac.at/mwess/2017/original/separate/BLUMEN_UND_ZIERPFLANZEN_IM_FOLIENTUNNEL.zip)
+* [BLUMEN UND ZIERPFLANZEN IM FOLIENTUNNEL](https://drive.google.com/file/d/1ILeG2PtqC2nqsVFeQU31fnj3EVdgd5Xq/view?usp=sharing)
 
-* [BLUMEN UND ZIERPFLANZEN IM GEWAECHSHAUS](https://homepage.boku.ac.at/mwess/2017/original/separate/BLUMEN_UND_ZIERPFLANZEN_IM_GEWAECHSHAUS.zip)
+* [BLUMEN UND ZIERPFLANZEN IM GEWAECHSHAUS](https://drive.google.com/file/d/1aJPOcAx0MQeX5fXneEPXKZ7seYu9orko/view?usp=sharing)
 
-* [BUCHWEIZEN](https://homepage.boku.ac.at/mwess/2017/original/separate/BUCHWEIZEN.zip)
+* [BUCHWEIZEN](https://drive.google.com/file/d/1D-9eAmZ2WwC6WB5hSNsmxnB05f6zsBoM/view?usp=sharing)
 
-* [DAUERWEIDE](https://homepage.boku.ac.at/mwess/2017/original/separate/DAUERWEIDE.zip)
+* [DAUERWEIDE](https://drive.google.com/file/d/1FkPmvB_oH2vwuWxWCrdWWp8XZ0VwMw7c/view?usp=sharing)
 
-* [EDELKASTANIEN](https://homepage.boku.ac.at/mwess/2017/original/separate/EDELKASTANIEN.zip)
+* [EDELKASTANIEN](https://drive.google.com/file/d/1SbBYVfJfRgmuZSEDvcM-ceM2c23UrixT/view?usp=sharing)
 
-* [EINJAEHRIGE BAUMSCHULEN](https://homepage.boku.ac.at/mwess/2017/original/separate/EINJAEHRIGE_BAUMSCHULEN.zip)
+* [EINJAEHRIGE BAUMSCHULEN](https://drive.google.com/file/d/1bCmBU1gQrbEEZT6zx6D4Sskt-OTa0fen/view?usp=sharing)
 
-* [EINMAEHDIGE WIESE](https://homepage.boku.ac.at/mwess/2017/original/separate/EINMAEHDIGE_WIESE.zip)
+* [EINMAEHDIGE WIESE](https://drive.google.com/file/d/1mVQK2Jw4GUyHxVBNkG1vPwkd_07g9mBb/view?usp=sharing)
 
-* [ELEFANTENGRAS (CHINASCHILF, MISCANTHUS SINENSIS)](https://homepage.boku.ac.at/mwess/2017/original/separate/ELEFANTENGRAS_CHINASCHILF,_MISCANTHUS_SINENSIS.zip)
+* [ELEFANTENGRAS (CHINASCHILF, MISCANTHUS SINENSIS)](https://drive.google.com/file/d/1FFP2YTdG-KrfvwGoLB9LGEHkJaoBoSfR/view?usp=sharing)
 
-* [EMMER ODER EINKORN (SOMMERUNG)](https://homepage.boku.ac.at/mwess/2017/original/separate/EMMER_ODER_EINKORN_SOMMERUNG.zip)
+* [EMMER ODER EINKORN (SOMMERUNG)](https://drive.google.com/file/d/1IZID7HwgAh4fXIkT2uQeNOLoJobUBFbe/view?usp=sharing)
 
-* [EMMER ODER EINKORN (SOMMERUNG) / FELDGEMUESE](https://homepage.boku.ac.at/mwess/2017/original/separate/EMMER_ODER_EINKORN_SOMMERUNG_-_FELDGEMUESE.zip)
+* [EMMER ODER EINKORN (SOMMERUNG) / FELDGEMUESE](https://drive.google.com/file/d/1_1xOigUEX28ZctTEABxE1s9RM-0mVS02/view?usp=sharing)
 
-* [EMMER ODER EINKORN (WINTERUNG)](https://homepage.boku.ac.at/mwess/2017/original/separate/EMMER_ODER_EINKORN_WINTERUNG.zip)
+* [EMMER ODER EINKORN (WINTERUNG)](https://drive.google.com/file/d/1VqHmvC3alCKuEQmDHEE_h3zQVbtmDrSQ/view?usp=sharing)
 
-* [EMMER ODER EINKORN (WINTERUNG) / FELDGEMUESE](https://homepage.boku.ac.at/mwess/2017/original/separate/EMMER_ODER_EINKORN_WINTERUNG_-_FELDGEMUESE.zip)
+* [EMMER ODER EINKORN (WINTERUNG) / FELDGEMUESE](https://drive.google.com/file/d/1qSeJhcHdjZPUC4rk2h459eEwu1rWJe8n/view?usp=sharing)
 
-* [ENERGIEGRAS](https://homepage.boku.ac.at/mwess/2017/original/separate/ENERGIEGRAS.zip)
+* [ENERGIEGRAS](https://drive.google.com/file/d/1dwr9m5gQq6uAouW_T7kCAEw3wKIswyMd/view?usp=sharing)
 
-* [ENERGIEHOLZ OHNE ROBINIE](https://homepage.boku.ac.at/mwess/2017/original/separate/ENERGIEHOLZ_OHNE_ROBINIE.zip)
+* [ENERGIEHOLZ OHNE ROBINIE](https://drive.google.com/file/d/1mrboBTufwkKmDJc67k2txN2TvixC-Po9/view?usp=sharing)
 
-* [ENERGIEHOLZ ROBINIE](https://homepage.boku.ac.at/mwess/2017/original/separate/ENERGIEHOLZ_ROBINIE.zip)
+* [ENERGIEHOLZ ROBINIE](https://drive.google.com/file/d/1Ywz6jb7_y3ZY-4RBcZb79BfEx-pTOiQG/view?usp=sharing)
 
-* [ERBSEN - GETREIDE GEMENGE](https://homepage.boku.ac.at/mwess/2017/original/separate/ERBSEN_-_GETREIDE_GEMENGE.zip)
+* [ERBSEN - GETREIDE GEMENGE](https://drive.google.com/file/d/1hvdiq6YWWEoynKw3NDRADoCQ0U_u96U_/view?usp=sharing)
 
-* [ERBSEN - GETREIDE GEMENGE / BUCHWEIZEN](https://homepage.boku.ac.at/mwess/2017/original/separate/ERBSEN_-_GETREIDE_GEMENGE_-_BUCHWEIZEN.zip)
+* [ERBSEN - GETREIDE GEMENGE / BUCHWEIZEN](https://drive.google.com/file/d/1hnm5562oe-uxEEc1DKKyWbMTbPsuRmZm/view?usp=sharing)
 
-* [ERBSEN - GETREIDE GEMENGE / FELDGEMUESE](https://homepage.boku.ac.at/mwess/2017/original/separate/ERBSEN_-_GETREIDE_GEMENGE_-_FELDGEMUESE.zip)
+* [ERBSEN - GETREIDE GEMENGE / FELDGEMUESE](https://drive.google.com/file/d/1_6ee5F4a4Oxrsq8pHRkYdRRMYtsmsV_Y/view?usp=sharing)
 
-* [ERDBEEREN](https://homepage.boku.ac.at/mwess/2017/original/separate/ERDBEEREN.zip)
+* [ERDBEEREN](https://drive.google.com/file/d/1mBb5mPGlznDLdfTz9Iuk27jewV_w9fvd/view?usp=sharing)
 
-* [ERDBEEREN / FELDGEMUESE](https://homepage.boku.ac.at/mwess/2017/original/separate/ERDBEEREN_-_FELDGEMUESE.zip)
+* [ERDBEEREN / FELDGEMUESE](https://drive.google.com/file/d/16I502fWAMvDsbJmw_SB7ad71GH6M0BId/view?usp=sharing)
 
-* [ERSTAUFFORSTUNG](https://homepage.boku.ac.at/mwess/2017/original/separate/ERSTAUFFORSTUNG.zip)
+* [ERSTAUFFORSTUNG](https://drive.google.com/file/d/1iJZbkaRsNVyLqIntWGeQU2MUcAerjY1m/view?usp=sharing)
 
-* [ERSTAUFFORSTUNG ALT](https://homepage.boku.ac.at/mwess/2017/original/separate/ERSTAUFFORSTUNG_ALT.zip)
+* [ERSTAUFFORSTUNG ALT](https://drive.google.com/file/d/1XNdUPuGvnen8E4IUG4JYSdkVmwwWYBE-/view?usp=sharing)
 
-* [ESPARSETTE](https://homepage.boku.ac.at/mwess/2017/original/separate/ESPARSETTE.zip)
+* [ESPARSETTE](https://drive.google.com/file/d/1mgYaMOvgOi64qJV3XWpW6_t3GXlDMooM/view?usp=sharing)
 
-* [FELDGEMUESE EINKULTURIG](https://homepage.boku.ac.at/mwess/2017/original/separate/FELDGEMUESE_EINKULTURIG.zip)
+* [FELDGEMUESE EINKULTURIG](https://drive.google.com/file/d/1xRQEZN9b2agDqYi9_7bsRd6cpYchinMY/view?usp=sharing)
 
-* [FELDGEMUESE EINLEGEGURKEN](https://homepage.boku.ac.at/mwess/2017/original/separate/FELDGEMUESE_EINLEGEGURKEN.zip)
+* [FELDGEMUESE EINLEGEGURKEN](https://drive.google.com/file/d/1JBgBsswSXwUgtlzsSO8fKqT1rilGVmwz/view?usp=sharing)
 
-* [FELDGEMUESE FRISCHMARKT UND VERARBEITUNG MEHRKULTURIG](https://homepage.boku.ac.at/mwess/2017/original/separate/FELDGEMUESE_FRISCHMARKT_UND_VERARBEITUNG_MEHRKULTURIG.zip)
+* [FELDGEMUESE FRISCHMARKT UND VERARBEITUNG MEHRKULTURIG](https://drive.google.com/file/d/1Rwo3-j0UNolkKt8CDKhbDQ5WdbnWpqtp/view?usp=sharing)
 
-* [FELDGEMUESE MEHRKULTURIG](https://homepage.boku.ac.at/mwess/2017/original/separate/FELDGEMUESE_MEHRKULTURIG.zip)
+* [FELDGEMUESE MEHRKULTURIG](https://drive.google.com/file/d/100PCino92oaSVmK3ajc25tVgsfx90uEs/view?usp=sharing)
 
-* [FELDGEMUESE OHNE ERNTE](https://homepage.boku.ac.at/mwess/2017/original/separate/FELDGEMUESE_OHNE_ERNTE.zip)
+* [FELDGEMUESE OHNE ERNTE](https://drive.google.com/file/d/17OdBknTZ_isxQqDuqqu90Uue5prt1DP5/view?usp=sharing)
 
-* [FELDGEMUESE VERARBEITUNG EINKULTURIG](https://homepage.boku.ac.at/mwess/2017/original/separate/FELDGEMUESE_VERARBEITUNG_EINKULTURIG.zip)
+* [FELDGEMUESE VERARBEITUNG EINKULTURIG](https://drive.google.com/file/d/1ugXod2VNPLvIZmRZX7tyE-HNU-SS-34E/view?usp=sharing)
 
-* [FELDGEMUESE VERARBEITUNG MEHRKULTURIG](https://homepage.boku.ac.at/mwess/2017/original/separate/FELDGEMUESE_VERARBEITUNG_MEHRKULTURIG.zip)
+* [FELDGEMUESE VERARBEITUNG MEHRKULTURIG](https://drive.google.com/file/d/1LeHYO5kRAKBQNsvr_9unFPryUbzcHqWL/view?usp=sharing)
 
-* [FLACHS (FASERLEIN) ZUR FASERERZEUGUNG](https://homepage.boku.ac.at/mwess/2017/original/separate/FLACHS_FASERLEIN_ZUR_FASERERZEUGUNG.zip)
+* [FLACHS (FASERLEIN) ZUR FASERERZEUGUNG](https://drive.google.com/file/d/1B9nYwz7f3wkyIy6GKbYoBCv4QC8VR3GE/view?usp=sharing)
 
-* [FORST GENETISCHE RESSOURCEN](https://homepage.boku.ac.at/mwess/2017/original/separate/FORST_GENETISCHE_RESSOURCEN.zip)
+* [FORST GENETISCHE RESSOURCEN](https://drive.google.com/file/d/1y-fEHuonJPxDh95nQyhR7MZHj0-pdD5H/view?usp=sharing)
 
-* [FRUEHKARTOFFELN](https://homepage.boku.ac.at/mwess/2017/original/separate/FRUEHKARTOFFELN.zip)
+* [FRUEHKARTOFFELN](https://drive.google.com/file/d/1dIcGfT6wYpAWS0OFnY3CLIialqkkcQes/view?usp=sharing)
 
-* [FRUEHKARTOFFELN / BUCHWEIZEN](https://homepage.boku.ac.at/mwess/2017/original/separate/FRUEHKARTOFFELN_-_BUCHWEIZEN.zip)
+* [FRUEHKARTOFFELN / BUCHWEIZEN](https://drive.google.com/file/d/1lJHU7i7ew4rMH3k_6HUgvKzPBPKPQ1nn/view?usp=sharing)
 
-* [FRUEHKARTOFFELN / FELDGEMUESE](https://homepage.boku.ac.at/mwess/2017/original/separate/FRUEHKARTOFFELN_-_FELDGEMUESE.zip)
+* [FRUEHKARTOFFELN / FELDGEMUESE](https://drive.google.com/file/d/1COa6OVtsUQY5DO3cGxZVoWIsHPWse_M-/view?usp=sharing)
 
-* [FRUEHKARTOFFELN / MAIS](https://homepage.boku.ac.at/mwess/2017/original/separate/FRUEHKARTOFFELN_-_MAIS.zip)
+* [FRUEHKARTOFFELN / MAIS](https://drive.google.com/file/d/1oDbntDI-1QQr_Ws-BnvOsvbTqcRfZCYk/view?usp=sharing)
 
-* [FUTTERGRAESER](https://homepage.boku.ac.at/mwess/2017/original/separate/FUTTERGRAESER.zip)
+* [FUTTERGRAESER](https://drive.google.com/file/d/1WZ4BIKhTZC8ZUYBb7t8T0zryvpcowuao/view?usp=sharing)
 
-* [FUTTERGRAESER / FELDGEMUESE](https://homepage.boku.ac.at/mwess/2017/original/separate/FUTTERGRAESER_-_FELDGEMUESE.zip)
+* [FUTTERGRAESER / FELDGEMUESE](https://drive.google.com/file/d/1ywjabTlOmtKHeqBM9fEq73REQRaHwJZ4/view?usp=sharing)
 
-* [FUTTERKARTOFFELN](https://homepage.boku.ac.at/mwess/2017/original/separate/FUTTERKARTOFFELN.zip)
+* [FUTTERKARTOFFELN](https://drive.google.com/file/d/153uitqqzdAPH2iOR2FXlFJ_X1lrI_wI_/view?usp=sharing)
 
-* [FUTTERRUEBEN (RUNKELRUEBEN, BURGUND KOHLRUEBEN)](https://homepage.boku.ac.at/mwess/2017/original/separate/FUTTERRUEBEN_RUNKELRUEBEN,_BURGUND_KOHLRUEBEN.zip)
+* [FUTTERRUEBEN (RUNKELRUEBEN, BURGUND KOHLRUEBEN)](https://drive.google.com/file/d/1EWEEgQQurqxJSrTHZRBNAWO3iwzHXXaw/view?usp=sharing)
 
-* [GEMUESE IM FOLIENTUNNEL](https://homepage.boku.ac.at/mwess/2017/original/separate/GEMUESE_IM_FOLIENTUNNEL.zip)
+* [GEMUESE IM FOLIENTUNNEL](https://drive.google.com/file/d/1HFwrNRBDiPE06Hg6_xPudj9oA4glQGa6/view?usp=sharing)
 
-* [GEMUESE IM GEWAECHSHAUS](https://homepage.boku.ac.at/mwess/2017/original/separate/GEMUESE_IM_GEWAECHSHAUS.zip)
+* [GEMUESE IM GEWAECHSHAUS](https://drive.google.com/file/d/1hL5nDPtfIpRpDY1GLIdxdaq7mRnf7LTG/view?usp=sharing)
 
-* [GEWUERZFENCHEL](https://homepage.boku.ac.at/mwess/2017/original/separate/GEWUERZFENCHEL.zip)
+* [GEWUERZFENCHEL](https://drive.google.com/file/d/1RtdBN_j0JfVlRaomJ4ZV282ZKg6rL_Qd/view?usp=sharing)
 
-* [GEWUERZPFLANZEN](https://homepage.boku.ac.at/mwess/2017/original/separate/GEWUERZPFLANZEN.zip)
+* [GEWUERZPFLANZEN](https://drive.google.com/file/d/1eJlacfQPlqaqz9QDCGPL1fDPWblhQayq/view?usp=sharing)
 
-* [GEWUERZPFLANZEN IM FOLIENTUNNEL](https://homepage.boku.ac.at/mwess/2017/original/separate/GEWUERZPFLANZEN_IM_FOLIENTUNNEL.zip)
+* [GEWUERZPFLANZEN IM FOLIENTUNNEL](https://drive.google.com/file/d/153pLQ9stlv4zi46MLUyKN4OTxMmYElDk/view?usp=sharing)
 
-* [GEWUERZPFLANZEN IM GEWAECHSHAUS](https://homepage.boku.ac.at/mwess/2017/original/separate/GEWUERZPFLANZEN_IM_GEWAECHSHAUS.zip)
+* [GEWUERZPFLANZEN IM GEWAECHSHAUS](https://drive.google.com/file/d/1d6mm3vW3R79GlXKJFWpPbpzIL0QHBcvV/view?usp=sharing)
 
-* [GINKGO](https://homepage.boku.ac.at/mwess/2017/original/separate/GINKGO.zip)
+* [GINKGO](https://drive.google.com/file/d/13N9A7RTzh-5EmjkZwCVQKj6P65daqCTn/view?usp=sharing)
 
-* [GLOEZ GRABEN / UFERRANDSTREIFEN](https://homepage.boku.ac.at/mwess/2017/original/separate/GLOEZ_GRABEN_-_UFERRANDSTREIFEN.zip)
+* [GLOEZ GRABEN / UFERRANDSTREIFEN](https://drive.google.com/file/d/19xcD5mBKdc5WA0sMXwQcJy3b4cEe3Uos/view?usp=sharing)
 
-* [GLOEZ NATURDENKMAL FLAECHE](https://homepage.boku.ac.at/mwess/2017/original/separate/GLOEZ_NATURDENKMAL_FLAECHE.zip)
+* [GLOEZ NATURDENKMAL FLAECHE](https://drive.google.com/file/d/1YocPyViOhfDz4fD1wY6EJ-u4xHeYjqDE/view?usp=sharing)
 
-* [GLOEZ STEINRIEGEL / STEINHAGE](https://homepage.boku.ac.at/mwess/2017/original/separate/GLOEZ_STEINRIEGEL_-_STEINHAGE.zip)
+* [GLOEZ STEINRIEGEL / STEINHAGE](https://drive.google.com/file/d/1MG0Jsfu5TyTJS6JD69FqSoaaPXyRozka/view?usp=sharing)
 
-* [GLOEZ TEICH / TUEMPEL](https://homepage.boku.ac.at/mwess/2017/original/separate/GLOEZ_TEICH_-_TUEMPEL.zip)
+* [GLOEZ TEICH / TUEMPEL](https://drive.google.com/file/d/1UEutYj6i5GkYixdJQe07WilM4E_xCFB3/view?usp=sharing)
 
-* [GRUENBRACHE](https://homepage.boku.ac.at/mwess/2017/original/separate/GRUENBRACHE.zip)
+* [GRUENBRACHE](https://drive.google.com/file/d/1x50h0dHRlkspEwHmMrbgkYiCSLxk4fUB/view?usp=sharing)
 
-* [GRUENLANDBRACHE](https://homepage.boku.ac.at/mwess/2017/original/separate/GRUENLANDBRACHE.zip)
+* [GRUENLANDBRACHE](https://drive.google.com/file/d/113BU9VE3fwiNo3R0Pluy6Hq4rD06Tv8_/view?usp=sharing)
 
-* [GRUENMAIS](https://homepage.boku.ac.at/mwess/2017/original/separate/GRUENMAIS.zip)
+* [GRUENMAIS](https://drive.google.com/file/d/1v0ooMRLJ7wLClJL_dM1I0EEH6V0gSeSa/view?usp=sharing)
 
-* [GRUENSCHNITTROGGEN](https://homepage.boku.ac.at/mwess/2017/original/separate/GRUENSCHNITTROGGEN.zip)
+* [GRUENSCHNITTROGGEN](https://drive.google.com/file/d/1y5-c_dgqIuijQl_D8NHbbpSLJwBUyuol/view?usp=sharing)
 
-* [GRUENSCHNITTROGGEN / HIRSE](https://homepage.boku.ac.at/mwess/2017/original/separate/GRUENSCHNITTROGGEN_-_HIRSE.zip)
+* [GRUENSCHNITTROGGEN / HIRSE](https://drive.google.com/file/d/1EHZt0UtnRq4XVGFGWc2sMM6Uhjn02K__/view?usp=sharing)
 
-* [GRUENSCHNITTROGGEN / MAIS](https://homepage.boku.ac.at/mwess/2017/original/separate/GRUENSCHNITTROGGEN_-_MAIS.zip)
+* [GRUENSCHNITTROGGEN / MAIS](https://drive.google.com/file/d/1afUmwapGuKtZcMDd2bkF-wtNYIpikJVX/view?usp=sharing)
 
-* [GRUENSCHNITTROGGEN / SONNENBLUME](https://homepage.boku.ac.at/mwess/2017/original/separate/GRUENSCHNITTROGGEN_-_SONNENBLUME.zip)
+* [GRUENSCHNITTROGGEN / SONNENBLUME](https://drive.google.com/file/d/1nQQJamSOCo1GX5r2NHhky5ZWbiTCbpRt/view?usp=sharing)
 
-* [HANF](https://homepage.boku.ac.at/mwess/2017/original/separate/HANF.zip)
+* [HANF](https://drive.google.com/file/d/1UU0mVDBQDCoZwTi4kUsxwk7n30ETnkRZ/view?usp=sharing)
 
-* [HEILPFLANZEN](https://homepage.boku.ac.at/mwess/2017/original/separate/HEILPFLANZEN.zip)
+* [HEILPFLANZEN](https://drive.google.com/file/d/1uRe9MHCrBc13CPVbe9yaZgUoNgkfCB9N/view?usp=sharing)
 
-* [HIRSE](https://homepage.boku.ac.at/mwess/2017/original/separate/HIRSE.zip)
+* [HIRSE](https://drive.google.com/file/d/12JfoIlpy_1WBqR8TOfLE1J6H58YDJQUX/view?usp=sharing)
 
-* [HIRSE / FELDGEMUESE](https://homepage.boku.ac.at/mwess/2017/original/separate/HIRSE_-_FELDGEMUESE.zip)
+* [HIRSE / FELDGEMUESE](https://drive.google.com/file/d/1AOEvN3GWa9TcGTpCXojoZXbGnD3F-Pmz/view?usp=sharing)
 
-* [HOLUNDER](https://homepage.boku.ac.at/mwess/2017/original/separate/HOLUNDER.zip)
+* [HOLUNDER](https://drive.google.com/file/d/1L6fgnHaOmEkoiQx1wLrU9N1syW9sWzWg/view?usp=sharing)
 
-* [HOPFEN](https://homepage.boku.ac.at/mwess/2017/original/separate/HOPFEN.zip)
+* [HOPFEN](https://drive.google.com/file/d/1ii9_F2aJCKKmOXvkHC9XnPpeTe5IHYAu/view?usp=sharing)
 
-* [HUTWEIDE](https://homepage.boku.ac.at/mwess/2017/original/separate/HUTWEIDE.zip)
+* [HUTWEIDE](https://drive.google.com/file/d/1jjmn1fqOYiELxzmM5AbXfy7LZiN_NK8b/view?usp=sharing)
 
-* [JOHANNISKRAUT](https://homepage.boku.ac.at/mwess/2017/original/separate/JOHANNISKRAUT.zip)
+* [JOHANNISKRAUT](https://drive.google.com/file/d/1rwXivp_c1f5RuZBMdtsNqneICjV88g2U/view?usp=sharing)
 
-* [KANARIENSAAT](https://homepage.boku.ac.at/mwess/2017/original/separate/KANARIENSAAT.zip)
+* [KANARIENSAAT](https://drive.google.com/file/d/18xqCFBCebXrN-lmc2Nookfv8ES21a8Z8/view?usp=sharing)
 
-* [KICHERERBSEN](https://homepage.boku.ac.at/mwess/2017/original/separate/KICHERERBSEN.zip)
+* [KICHERERBSEN](https://drive.google.com/file/d/1YyvtLyLA1LrNP_vkn4SVivAE4r3B7mIZ/view?usp=sharing)
 
-* [KIRSCHEN](https://homepage.boku.ac.at/mwess/2017/original/separate/KIRSCHEN.zip)
+* [KIRSCHEN](https://drive.google.com/file/d/14eLc8gmwjXLP9zb-xqXNPw3tvt3830Aq/view?usp=sharing)
 
-* [KLEE](https://homepage.boku.ac.at/mwess/2017/original/separate/KLEE.zip)
+* [KLEE](https://drive.google.com/file/d/1QqV-U8rQqYFAVr3FLpailKVi9rObW3UU/view?usp=sharing)
 
-* [KLEE / FELDGEMUESE](https://homepage.boku.ac.at/mwess/2017/original/separate/KLEE_-_FELDGEMUESE.zip)
+* [KLEE / FELDGEMUESE](https://drive.google.com/file/d/1yxgUjW8Zybjb8-7KX2US2XPMcRVEhu-E/view?usp=sharing)
 
-* [KLEEGRAS](https://homepage.boku.ac.at/mwess/2017/original/separate/KLEEGRAS.zip)
+* [KLEEGRAS](https://drive.google.com/file/d/18my6UHoySmEm6tVXTt7_MbHxH-eia9v5/view?usp=sharing)
 
-* [KLEEGRAS / FELDGEMUESE](https://homepage.boku.ac.at/mwess/2017/original/separate/KLEEGRAS_-_FELDGEMUESE.zip)
+* [KLEEGRAS / FELDGEMUESE](https://drive.google.com/file/d/18UmcHVeDPIrjz-tMpZaqHpA5tZm_AGid/view?usp=sharing)
 
-* [KOERNERERBSEN](https://homepage.boku.ac.at/mwess/2017/original/separate/KOERNERERBSEN.zip)
+* [KOERNERERBSEN](https://drive.google.com/file/d/1GU15f2-nQdyo51fo4p7OHQ5iQHWoRKcv/view?usp=sharing)
 
-* [KOERNERERBSEN / FELDGEMUESE](https://homepage.boku.ac.at/mwess/2017/original/separate/KOERNERERBSEN_-_FELDGEMUESE.zip)
+* [KOERNERERBSEN / FELDGEMUESE](https://drive.google.com/file/d/11YoxcVrFR03wHoW_0RJb_ZNEv3Xh7r62/view?usp=sharing)
 
-* [KOERNERMAIS](https://homepage.boku.ac.at/mwess/2017/original/separate/KOERNERMAIS.zip)
+* [KOERNERMAIS](https://drive.google.com/file/d/1pcVHtLExBiKC297qpnXGlXvgszYbWQm6/view?usp=sharing)
 
-* [LEINDOTTER](https://homepage.boku.ac.at/mwess/2017/original/separate/LEINDOTTER.zip)
+* [LEINDOTTER](https://drive.google.com/file/d/1JtZBglvzlYLJKX45SKPBfAAjasBGRn8D/view?usp=sharing)
 
-* [LINSEN](https://homepage.boku.ac.at/mwess/2017/original/separate/LINSEN.zip)
+* [LINSEN](https://drive.google.com/file/d/1noZ6SwDB9HcY_EcoEatPoc603DwuwEsy/view?usp=sharing)
 
-* [LSE FELDGEHOELZ / BAUM- / GEBUESCHGRUPPE](https://homepage.boku.ac.at/mwess/2017/original/separate/LSE_FELDGEHOELZ_-_BAUM-_-_GEBUESCHGRUPPE.zip)
+* [LSE FELDGEHOELZ / BAUM- / GEBUESCHGRUPPE](https://drive.google.com/file/d/1vay1lG_LYyxTikd7RUJaJBjyXdcF2wOH/view?usp=sharing)
 
-* [LSE HECKE / UFERGEHOELZ](https://homepage.boku.ac.at/mwess/2017/original/separate/LSE_HECKE_-_UFERGEHOELZ.zip)
+* [LSE HECKE / UFERGEHOELZ](https://drive.google.com/file/d/18Z3ATSB_waqLiZ8CAVZaAGgdrIv8vfMT/view?usp=sharing)
 
-* [LSE RAIN / BOESCHUNG / TROCKENSTEINMAUER](https://homepage.boku.ac.at/mwess/2017/original/separate/LSE_RAIN_-_BOESCHUNG_-_TROCKENSTEINMAUER.zip)
+* [LSE RAIN / BOESCHUNG / TROCKENSTEINMAUER](https://drive.google.com/file/d/1jg46w9VPlAnkoCyLHwy5ZPsaH3oMJD-A/view?usp=sharing)
 
-* [LUZERNE](https://homepage.boku.ac.at/mwess/2017/original/separate/LUZERNE.zip)
+* [LUZERNE](https://drive.google.com/file/d/1-2ZmMqZCUr4uiNR6xMaPt2Gs2ykXEPZu/view?usp=sharing)
 
-* [MAEHWIESE/-WEIDE DREI UND MEHR NUTZUNGEN](https://homepage.boku.ac.at/mwess/2017/original/separate/MAEHWIESE--WEIDE_DREI_UND_MEHR_NUTZUNGEN.zip)
+* [MAEHWIESE/-WEIDE DREI UND MEHR NUTZUNGEN](https://drive.google.com/file/d/1bAesxsjatm17PFcSZunMpGfUJ7VbrwAG/view?usp=sharing)
 
-* [MAEHWIESE/-WEIDE ZWEI NUTZUNGEN](https://homepage.boku.ac.at/mwess/2017/original/separate/MAEHWIESE--WEIDE_ZWEI_NUTZUNGEN.zip)
+* [MAEHWIESE/-WEIDE ZWEI NUTZUNGEN](https://drive.google.com/file/d/1iSzl_KNa0vMm21t_rp73pvNqN2g2uZ6k/view?usp=sharing)
 
-* [MAIS / KAEFERBOHNEN IN GETRENNTEN REIHEN](https://homepage.boku.ac.at/mwess/2017/original/separate/MAIS_-_KAEFERBOHNEN_IN_GETRENNTEN_REIHEN.zip)
+* [MAIS / KAEFERBOHNEN IN GETRENNTEN REIHEN](https://drive.google.com/file/d/1lINwVA-CH8-10KmS0duOOMsWZLp8Le6x/view?usp=sharing)
 
-* [MAIS CORN-COB-MIX (CCM)](https://homepage.boku.ac.at/mwess/2017/original/separate/MAIS_CORN-COB-MIX_CCM.zip)
+* [MAIS CORN-COB-MIX (CCM)](https://drive.google.com/file/d/1PglpbEC115szwATZzah8YMITYeGM7kCi/view?usp=sharing)
 
-* [MAIS CORN-COB-MIX (CCM) / FELDGEMUESE](https://homepage.boku.ac.at/mwess/2017/original/separate/MAIS_CORN-COB-MIX_CCM_-_FELDGEMUESE.zip)
+* [MAIS CORN-COB-MIX (CCM) / FELDGEMUESE](https://drive.google.com/file/d/1-4O8_SDJrZ6BRUZF2H_hhH8ptXlaVbZM/view?usp=sharing)
 
-* [MARIENDISTELN](https://homepage.boku.ac.at/mwess/2017/original/separate/MARIENDISTELN.zip)
+* [MARIENDISTELN](https://drive.google.com/file/d/1W3KJJYh61vehgQLpID3T6QVz7PeEZawI/view?usp=sharing)
 
-* [MARILLEN](https://homepage.boku.ac.at/mwess/2017/original/separate/MARILLEN.zip)
+* [MARILLEN](https://drive.google.com/file/d/1E9znjCZbg0xxKqTYKaPQQzGtTFlR7fYF/view?usp=sharing)
 
-* [MEHRJAEHRIGE BAUMSCHULEN](https://homepage.boku.ac.at/mwess/2017/original/separate/MEHRJAEHRIGE_BAUMSCHULEN.zip)
+* [MEHRJAEHRIGE BAUMSCHULEN](https://drive.google.com/file/d/1Z5NZPzMQlJia-9M2fh5bXODSTmi0fjoK/view?usp=sharing)
 
-* [NATURSCHUTZFACHLICH WERTVOLLE PFLEGEFLAECHE](https://homepage.boku.ac.at/mwess/2017/original/separate/NATURSCHUTZFACHLICH_WERTVOLLE_PFLEGEFLAECHE.zip)
+* [NATURSCHUTZFACHLICH WERTVOLLE PFLEGEFLAECHE](https://drive.google.com/file/d/1qObjc465BxZG5N0hRQK294sEGseUlb8n/view?usp=sharing)
 
-* [NEKTARINEN](https://homepage.boku.ac.at/mwess/2017/original/separate/NEKTARINEN.zip)
+* [NEKTARINEN](https://drive.google.com/file/d/19m7JmJFucIt2FPJEJ-Jd4l7iYVN7KHch/view?usp=sharing)
 
-* [OBST IM FOLIENTUNNEL](https://homepage.boku.ac.at/mwess/2017/original/separate/OBST_IM_FOLIENTUNNEL.zip)
+* [OBST IM FOLIENTUNNEL](https://drive.google.com/file/d/1QZ_vtSROxGfm8q_5yzn_K_fGNmL4RAOV/view?usp=sharing)
 
-* [OBST IM GEWAECHSHAUS](https://homepage.boku.ac.at/mwess/2017/original/separate/OBST_IM_GEWAECHSHAUS.zip)
+* [OBST IM GEWAECHSHAUS](https://drive.google.com/file/d/1C7S0rFp_98pQu61T2MUVVhm4SaDG2lzt/view?usp=sharing)
 
-* [OBST/HOPFEN BODENGESUNDUNG](https://homepage.boku.ac.at/mwess/2017/original/separate/OBST-HOPFEN_BODENGESUNDUNG.zip)
+* [OBST/HOPFEN BODENGESUNDUNG](https://drive.google.com/file/d/1faSw4OIb-h_Fo9nSUuLmpSfp4GbhvTWJ/view?usp=sharing)
 
-* [OELKUERBIS](https://homepage.boku.ac.at/mwess/2017/original/separate/OELKUERBIS.zip)
+* [OELKUERBIS](https://drive.google.com/file/d/1EDaIQ3QlHvNhf4vel4EvQyebZTBI1Dcy/view?usp=sharing)
 
-* [OELLEIN (NICHT ZUR FASERGEWINNUNG)](https://homepage.boku.ac.at/mwess/2017/original/separate/OELLEIN_NICHT_ZUR_FASERGEWINNUNG.zip)
+* [OELLEIN (NICHT ZUR FASERGEWINNUNG)](https://drive.google.com/file/d/1XcmOkTAzUfq8FPa8FpDRe5xA_PGBlxEm/view?usp=sharing)
 
-* [OELLEIN (NICHT ZUR FASERGEWINNUNG) / FELDGEMUESE](https://homepage.boku.ac.at/mwess/2017/original/separate/OELLEIN_NICHT_ZUR_FASERGEWINNUNG_-_FELDGEMUESE.zip)
+* [OELLEIN (NICHT ZUR FASERGEWINNUNG) / FELDGEMUESE](https://drive.google.com/file/d/1GjJUYprhqKizUtF9i1dUxjyooALv2IAW/view?usp=sharing)
 
-* [OELRETTICH](https://homepage.boku.ac.at/mwess/2017/original/separate/OELRETTICH.zip)
+* [OELRETTICH](https://drive.google.com/file/d/1wIpeAnt4sInojtVIXsCF8Uskn5H_YA-g/view?usp=sharing)
 
-* [PELUSCHKE](https://homepage.boku.ac.at/mwess/2017/original/separate/PELUSCHKE.zip)
+* [PELUSCHKE](https://drive.google.com/file/d/1EgJFiXc9jC5mPtX4bl0UPWgdU-G2rp_X/view?usp=sharing)
 
-* [PFIRSICHE](https://homepage.boku.ac.at/mwess/2017/original/separate/PFIRSICHE.zip)
+* [PFIRSICHE](https://drive.google.com/file/d/1QhkDbLkpS6VZfIV0uYzKxmz-tRRRQsu7/view?usp=sharing)
 
-* [PFLAUMEN](https://homepage.boku.ac.at/mwess/2017/original/separate/PFLAUMEN.zip)
+* [PFLAUMEN](https://drive.google.com/file/d/1W1FiKgitGdRNPv7f3_A9wGJhDmzRuWX1/view?usp=sharing)
 
-* [PHACELIA](https://homepage.boku.ac.at/mwess/2017/original/separate/PHACELIA.zip)
+* [PHACELIA](https://drive.google.com/file/d/1h2-T-dvMLaw0f36RYQ1HWw3Zft5Hxsml/view?usp=sharing)
 
-* [PLATTERBSEN](https://homepage.boku.ac.at/mwess/2017/original/separate/PLATTERBSEN.zip)
+* [PLATTERBSEN](https://drive.google.com/file/d/1gvr60EZt86lPa0ZweJoeQ2ukyzryQtFP/view?usp=sharing)
 
-* [QUINOA](https://homepage.boku.ac.at/mwess/2017/original/separate/QUINOA.zip)
+* [QUINOA](https://drive.google.com/file/d/1K0g9fMExZKsZB0fy3P-oJzccQn0wuuTT/view?usp=sharing)
 
-* [QUITTEN](https://homepage.boku.ac.at/mwess/2017/original/separate/QUITTEN.zip)
+* [QUITTEN](https://drive.google.com/file/d/17eyWJ48j1FJjyhm1ZxjjCj6AuoHKNQDm/view?usp=sharing)
 
-* [REBSCHULEN](https://homepage.boku.ac.at/mwess/2017/original/separate/REBSCHULEN.zip)
+* [REBSCHULEN](https://drive.google.com/file/d/18Jhmnr5jQ9ZmNefyD9DAcAG39jGCQ5De/view?usp=sharing)
 
-* [ROLLRASEN](https://homepage.boku.ac.at/mwess/2017/original/separate/ROLLRASEN.zip)
+* [ROLLRASEN](https://drive.google.com/file/d/1gbZYKiCU2bRNBTOLi8wyv2dggyb6n8KE/view?usp=sharing)
 
-* [RUEBENVERMEHRUNG](https://homepage.boku.ac.at/mwess/2017/original/separate/RUEBENVERMEHRUNG.zip)
+* [RUEBENVERMEHRUNG](https://drive.google.com/file/d/1Ek-j7yvcEA3DdIanGCsXB5OHJTygyjvU/view?usp=sharing)
 
-* [SAATKARTOFFELN](https://homepage.boku.ac.at/mwess/2017/original/separate/SAATKARTOFFELN.zip)
+* [SAATKARTOFFELN](https://drive.google.com/file/d/1hwy07WVm4L9lSdY4RMZ1wnaZ2dr80lMI/view?usp=sharing)
 
-* [SAATMAISVERMEHRUNG](https://homepage.boku.ac.at/mwess/2017/original/separate/SAATMAISVERMEHRUNG.zip)
+* [SAATMAISVERMEHRUNG](https://drive.google.com/file/d/19GMd_OD0VmpmZK7GEmUf-l1XPpIfmmX_/view?usp=sharing)
 
-* [SCHALENFRUECHTE (WALNUESSE, HASELNUESSE, ...)](https://homepage.boku.ac.at/mwess/2017/original/separate/SCHALENFRUECHTE_WALNUESSE,_HASELNUESSE,_....zip)
+* [SCHALENFRUECHTE (WALNUESSE, HASELNUESSE, ...)](https://drive.google.com/file/d/1E4mmNhyMjpEH9H9a6KCyHf0SwAIYv5N4/view?usp=sharing)
 
-* [SCHNITTWEINGARTEN](https://homepage.boku.ac.at/mwess/2017/original/separate/SCHNITTWEINGARTEN.zip)
+* [SCHNITTWEINGARTEN](https://drive.google.com/file/d/1OB68ZPk9MOP1Ds8ijGDH2QFP9WpquLdW/view?usp=sharing)
 
-* [SENF](https://homepage.boku.ac.at/mwess/2017/original/separate/SENF.zip)
+* [SENF](https://drive.google.com/file/d/1ejP3qjghb1XwM6lxMljO4LqfH77pzUY5/view?usp=sharing)
 
-* [SILOMAIS](https://homepage.boku.ac.at/mwess/2017/original/separate/SILOMAIS.zip)
+* [SILOMAIS](https://drive.google.com/file/d/1TWTZ6doU-Qqkk1_3HdWJiYj828gQDM-e/view?usp=sharing)
 
-* [SOJABOHNEN](https://homepage.boku.ac.at/mwess/2017/original/separate/SOJABOHNEN.zip)
+* [SOJABOHNEN](https://drive.google.com/file/d/1PAJfceS3Evg2g1U428PiY_-nK-bf-ABJ/view?usp=sharing)
 
-* [SOJABOHNEN / SOMMERWICKEN IN GETRENNTEN REIHEN](https://homepage.boku.ac.at/mwess/2017/original/separate/SOJABOHNEN_-_SOMMERWICKEN_IN_GETRENNTEN_REIHEN.zip)
+* [SOJABOHNEN / SOMMERWICKEN IN GETRENNTEN REIHEN](https://drive.google.com/file/d/1qmmRBJ6Zsbr7vBRKxbpv8bk8pPvHb4ex/view?usp=sharing)
 
-* [SOMMERDINKEL (SPELZ)](https://homepage.boku.ac.at/mwess/2017/original/separate/SOMMERDINKEL_SPELZ.zip)
+* [SOMMERDINKEL (SPELZ)](https://drive.google.com/file/d/1xMeJYEUfoWlPiufVzNBrZ2vloAorIVGW/view?usp=sharing)
 
-* [SOMMERGERSTE](https://homepage.boku.ac.at/mwess/2017/original/separate/SOMMERGERSTE.zip)
+* [SOMMERGERSTE](https://drive.google.com/file/d/1yHCPO3T40wRKY1Fyhei8fGKZVjbn1Bpc/view?usp=sharing)
 
-* [SOMMERGERSTE / BUCHWEIZEN](https://homepage.boku.ac.at/mwess/2017/original/separate/SOMMERGERSTE_-_BUCHWEIZEN.zip)
+* [SOMMERGERSTE / BUCHWEIZEN](https://drive.google.com/file/d/1vPIB9VVre3mT5BU6GujPPisKyBFMSQFM/view?usp=sharing)
 
-* [SOMMERGERSTE / FELDGEMUESE](https://homepage.boku.ac.at/mwess/2017/original/separate/SOMMERGERSTE_-_FELDGEMUESE.zip)
+* [SOMMERGERSTE / FELDGEMUESE](https://drive.google.com/file/d/1Mpz_JRzmomkOXHLmVUVG6U_cw_LNKLtK/view?usp=sharing)
 
-* [SOMMERHAFER](https://homepage.boku.ac.at/mwess/2017/original/separate/SOMMERHAFER.zip)
+* [SOMMERHAFER](https://drive.google.com/file/d/1nX3wwl-PNF_eZJugJOkSw_4Pdi3oJMxM/view?usp=sharing)
 
-* [SOMMERHAFER / FELDGEMUESE](https://homepage.boku.ac.at/mwess/2017/original/separate/SOMMERHAFER_-_FELDGEMUESE.zip)
+* [SOMMERHAFER / FELDGEMUESE](https://drive.google.com/file/d/16gGvNm2YX3-agmKiQH809R17ZxnR5W7G/view?usp=sharing)
 
-* [SOMMERHARTWEIZEN (DURUM)](https://homepage.boku.ac.at/mwess/2017/original/separate/SOMMERHARTWEIZEN_DURUM.zip)
+* [SOMMERHARTWEIZEN (DURUM)](https://drive.google.com/file/d/1khJrfg_Hbv3MF57j9vs8offMSWEmx4rP/view?usp=sharing)
 
-* [SOMMERHARTWEIZEN (DURUM) / BUCHWEIZEN](https://homepage.boku.ac.at/mwess/2017/original/separate/SOMMERHARTWEIZEN_DURUM_-_BUCHWEIZEN.zip)
+* [SOMMERHARTWEIZEN (DURUM) / BUCHWEIZEN](https://drive.google.com/file/d/1UdtyF5Etx7jUNVKO18brTtu2hPnyP1Fb/view?usp=sharing)
 
-* [SOMMERHARTWEIZEN (DURUM) / FELDGEMUESE](https://homepage.boku.ac.at/mwess/2017/original/separate/SOMMERHARTWEIZEN_DURUM_-_FELDGEMUESE.zip)
+* [SOMMERHARTWEIZEN (DURUM) / FELDGEMUESE](https://drive.google.com/file/d/1Z1e678BN-qVBJ70bA7UHIditzYatW_M7/view?usp=sharing)
 
-* [SOMMERKUEMMEL](https://homepage.boku.ac.at/mwess/2017/original/separate/SOMMERKUEMMEL.zip)
+* [SOMMERKUEMMEL](https://drive.google.com/file/d/1SDR2Iv1Sm3IMVqy7x7O7cQlbbefbRg21/view?usp=sharing)
 
-* [SOMMERMENGGETREIDE](https://homepage.boku.ac.at/mwess/2017/original/separate/SOMMERMENGGETREIDE.zip)
+* [SOMMERMENGGETREIDE](https://drive.google.com/file/d/1lJLTcgh_5RqMfHELd3_BB1Yh_n2rkwGd/view?usp=sharing)
 
-* [SOMMERMENGGETREIDE / FELDGEMUESE](https://homepage.boku.ac.at/mwess/2017/original/separate/SOMMERMENGGETREIDE_-_FELDGEMUESE.zip)
+* [SOMMERMENGGETREIDE / FELDGEMUESE](https://drive.google.com/file/d/1vxn4YDoj7nIruPdnwFn5Zl9XLVkAgkNE/view?usp=sharing)
 
-* [SOMMERMOHN](https://homepage.boku.ac.at/mwess/2017/original/separate/SOMMERMOHN.zip)
+* [SOMMERMOHN](https://drive.google.com/file/d/1OuX0eD1KcR4FJ4BkI89m4PqoPOZP6HpW/view?usp=sharing)
 
-* [SOMMERRAPS](https://homepage.boku.ac.at/mwess/2017/original/separate/SOMMERRAPS.zip)
+* [SOMMERRAPS](https://drive.google.com/file/d/1HeyDL_z_7C86laHwXR0xfL6GjmblRRc0/view?usp=sharing)
 
-* [SOMMERROGGEN](https://homepage.boku.ac.at/mwess/2017/original/separate/SOMMERROGGEN.zip)
+* [SOMMERROGGEN](https://drive.google.com/file/d/1RovVwuhUA8toS5jl-HDhP-emntmDfpJ4/view?usp=sharing)
 
-* [SOMMERRUEBSEN](https://homepage.boku.ac.at/mwess/2017/original/separate/SOMMERRUEBSEN.zip)
+* [SOMMERRUEBSEN](https://drive.google.com/file/d/1h0ABnr9bmag3wFUTd0lntVlDeYDI7tsp/view?usp=sharing)
 
-* [SOMMERTRITICALE](https://homepage.boku.ac.at/mwess/2017/original/separate/SOMMERTRITICALE.zip)
+* [SOMMERTRITICALE](https://drive.google.com/file/d/1HQzpc1BjvezLp59IeLqsUbOaBJeSrZoU/view?usp=sharing)
 
-* [SOMMERWEICHWEIZEN](https://homepage.boku.ac.at/mwess/2017/original/separate/SOMMERWEICHWEIZEN.zip)
+* [SOMMERWEICHWEIZEN](https://drive.google.com/file/d/1RxWXqXSWKWUnH1NBImanBWCkCXsP-xg8/view?usp=sharing)
 
-* [SOMMERWICKEN](https://homepage.boku.ac.at/mwess/2017/original/separate/SOMMERWICKEN.zip)
+* [SOMMERWICKEN](https://drive.google.com/file/d/1_v3Fr8_6c0j2bJN76XC0uT3VsJEP1okZ/view?usp=sharing)
 
-* [SONNENBLUMEN](https://homepage.boku.ac.at/mwess/2017/original/separate/SONNENBLUMEN.zip)
+* [SONNENBLUMEN](https://drive.google.com/file/d/1ZPTvMFul5FZfrP5SSRjCYjynCmdY-TGr/view?usp=sharing)
 
-* [SONSTIGE ACKERFLAECHEN](https://homepage.boku.ac.at/mwess/2017/original/separate/SONSTIGE_ACKERFLAECHEN.zip)
+* [SONSTIGE ACKERFLAECHEN](https://drive.google.com/file/d/1D1I6N_QSn4DPJ11wGCvLuntCbJTF5DU3/view?usp=sharing)
 
-* [SONSTIGE ACKERKULTUREN](https://homepage.boku.ac.at/mwess/2017/original/separate/SONSTIGE_ACKERKULTUREN.zip)
+* [SONSTIGE ACKERKULTUREN](https://drive.google.com/file/d/1xNvw2aqOpD50jFYGMz_jQLe4QPGP6-r0/view?usp=sharing)
 
-* [SONSTIGE FLAECHEN: GESCHUETZTER ANBAU](https://homepage.boku.ac.at/mwess/2017/original/separate/SONSTIGE_FLAECHEN_GESCHUETZTER_ANBAU.zip)
+* [SONSTIGE FLAECHEN: GESCHUETZTER ANBAU](https://drive.google.com/file/d/1Bl31yl8f4q5aHHEyynNQx4G068aZeVLY/view?usp=sharing)
 
-* [SONSTIGE GRUENLANDFLAECHEN](https://homepage.boku.ac.at/mwess/2017/original/separate/SONSTIGE_GRUENLANDFLAECHEN.zip)
+* [SONSTIGE GRUENLANDFLAECHEN](https://drive.google.com/file/d/1-aABKOw4HND1mgXxmCzZBpnJTCmHJGmq/view?usp=sharing)
 
-* [SONSTIGE KULTUREN IM FOLIENTUNNEL](https://homepage.boku.ac.at/mwess/2017/original/separate/SONSTIGE_KULTUREN_IM_FOLIENTUNNEL.zip)
+* [SONSTIGE KULTUREN IM FOLIENTUNNEL](https://drive.google.com/file/d/1GOtYoXFdUFwcnnQOnNt4czACXsc1N7H5/view?usp=sharing)
 
-* [SONSTIGE KULTUREN IM GEWAECHSHAUS](https://homepage.boku.ac.at/mwess/2017/original/separate/SONSTIGE_KULTUREN_IM_GEWAECHSHAUS.zip)
+* [SONSTIGE KULTUREN IM GEWAECHSHAUS](https://drive.google.com/file/d/1117MC2NUg9hCKsZCn8VKDGgidXBhlohi/view?usp=sharing)
 
-* [SONSTIGE OELFRUECHTE (SAFLOR, ...)](https://homepage.boku.ac.at/mwess/2017/original/separate/SONSTIGE_OELFRUECHTE_SAFLOR,_....zip)
+* [SONSTIGE OELFRUECHTE (SAFLOR, ...)](https://drive.google.com/file/d/1ZMFaYsbDUmajRvrqolSSRBMTe9Owxr5Z/view?usp=sharing)
 
-* [SONSTIGE SPEZIALKULTURFLAECHEN](https://homepage.boku.ac.at/mwess/2017/original/separate/SONSTIGE_SPEZIALKULTURFLAECHEN.zip)
+* [SONSTIGE SPEZIALKULTURFLAECHEN](https://drive.google.com/file/d/1IFtpS9v-HLHwS4i16FIdycvVAPAvJyF5/view?usp=sharing)
 
-* [SONSTIGE WEINFLAECHEN](https://homepage.boku.ac.at/mwess/2017/original/separate/SONSTIGE_WEINFLAECHEN.zip)
+* [SONSTIGE WEINFLAECHEN](https://drive.google.com/file/d/1fSMN4r3vWUVZ0jD2wWhxx_3SrVNPGCOC/view?usp=sharing)
 
-* [SONSTIGES FELDFUTTER](https://homepage.boku.ac.at/mwess/2017/original/separate/SONSTIGES_FELDFUTTER.zip)
+* [SONSTIGES FELDFUTTER](https://drive.google.com/file/d/1e-4N3vFLMKTTAEh_5EyW6IT3CZWnjeqf/view?usp=sharing)
 
-* [SORGHUM](https://homepage.boku.ac.at/mwess/2017/original/separate/SORGHUM.zip)
+* [SORGHUM](https://drive.google.com/file/d/1JzAIK2Hf5bDFGIoDUwhcbvNc88JFX1vJ/view?usp=sharing)
 
-* [SPEISEINDUSTRIEKARTOFFELN](https://homepage.boku.ac.at/mwess/2017/original/separate/SPEISEINDUSTRIEKARTOFFELN.zip)
+* [SPEISEINDUSTRIEKARTOFFELN](https://drive.google.com/file/d/1dUsFVkZxBAuy0rhPULnck-wmHdwhmKMn/view?usp=sharing)
 
-* [SPEISEKARTOFFELN](https://homepage.boku.ac.at/mwess/2017/original/separate/SPEISEKARTOFFELN.zip)
+* [SPEISEKARTOFFELN](https://drive.google.com/file/d/1XdM9OJOuFMyfVgF9bBiiZbsb7cxqFONU/view?usp=sharing)
 
-* [SPEISEKARTOFFELN / FELDGEMUESE](https://homepage.boku.ac.at/mwess/2017/original/separate/SPEISEKARTOFFELN_-_FELDGEMUESE.zip)
+* [SPEISEKARTOFFELN / FELDGEMUESE](https://drive.google.com/file/d/1JTw5N4lmQDK8njErIQ2fjzzvyidJF7eG/view?usp=sharing)
 
-* [SPEISEKUERBIS](https://homepage.boku.ac.at/mwess/2017/original/separate/SPEISEKUERBIS.zip)
+* [SPEISEKUERBIS](https://drive.google.com/file/d/1U_cho834r4svpvrIyNVg6TAd8SjMVwfj/view?usp=sharing)
 
-* [STAERKEINDUSTRIEKARTOFFELN](https://homepage.boku.ac.at/mwess/2017/original/separate/STAERKEINDUSTRIEKARTOFFELN.zip)
+* [STAERKEINDUSTRIEKARTOFFELN](https://drive.google.com/file/d/1CvPkYCUb055MLXBefcspTO2u9DDSzGKo/view?usp=sharing)
 
-* [STRAUCHBEEREN](https://homepage.boku.ac.at/mwess/2017/original/separate/STRAUCHBEEREN.zip)
+* [STRAUCHBEEREN](https://drive.google.com/file/d/1lBriVeeAShbOkaejQl5GrFlKJX5YeMkH/view?usp=sharing)
 
-* [STREUWIESE](https://homepage.boku.ac.at/mwess/2017/original/separate/STREUWIESE.zip)
+* [STREUWIESE](https://drive.google.com/file/d/1THZHtNfxZxhsCseNoxQ6Y0WBldwM8UMi/view?usp=sharing)
 
-* [SUDANGRAS](https://homepage.boku.ac.at/mwess/2017/original/separate/SUDANGRAS.zip)
+* [SUDANGRAS](https://drive.google.com/file/d/1K-GONIGuRd11RAQqKtA8Kdvu4Ca_Yin6/view?usp=sharing)
 
-* [SUESSLUPINEN](https://homepage.boku.ac.at/mwess/2017/original/separate/SUESSLUPINEN.zip)
+* [SUESSLUPINEN](https://drive.google.com/file/d/1Qs_7Io1vHLW0PGoBmDpqqqYOvBB8QmzG/view?usp=sharing)
 
-* [TAFELAEPFEL](https://homepage.boku.ac.at/mwess/2017/original/separate/TAFELAEPFEL.zip)
+* [TAFELAEPFEL](https://drive.google.com/file/d/1P0GGAqWTtsPsd1B9Wbct5vj4GrkI5wP3/view?usp=sharing)
 
-* [TAFELBIRNEN](https://homepage.boku.ac.at/mwess/2017/original/separate/TAFELBIRNEN.zip)
+* [TAFELBIRNEN](https://drive.google.com/file/d/1N4qgn4q4mlv_6NNq9ookk55G8tX-kkg2/view?usp=sharing)
 
-* [TOPINAMBUR](https://homepage.boku.ac.at/mwess/2017/original/separate/TOPINAMBUR.zip)
+* [TOPINAMBUR](https://drive.google.com/file/d/1UvOzQLDXHcO8LtxNX0e7C_AUPW-x2Q4C/view?usp=sharing)
 
-* [WALDUMWELTMASSNAHMEN](https://homepage.boku.ac.at/mwess/2017/original/separate/WALDUMWELTMASSNAHMEN.zip)
+* [WALDUMWELTMASSNAHMEN](https://drive.google.com/file/d/1Bejq3t4ZRO7YRKXBpNLZv3SmlE2WMGL5/view?usp=sharing)
 
-* [WECHSELWIESE (EGART, ACKERWEIDE)](https://homepage.boku.ac.at/mwess/2017/original/separate/WECHSELWIESE_EGART,_ACKERWEIDE.zip)
+* [WECHSELWIESE (EGART, ACKERWEIDE)](https://drive.google.com/file/d/1IYp4iQRpns3PwY8OGchtWtW39WKclLhE/view?usp=sharing)
 
-* [WEICHSELN](https://homepage.boku.ac.at/mwess/2017/original/separate/WEICHSELN.zip)
+* [WEICHSELN](https://drive.google.com/file/d/1ydVyXcGMwoWj6SFsFKMqKdb2U0Ae9OrP/view?usp=sharing)
 
-* [WEIN](https://homepage.boku.ac.at/mwess/2017/original/separate/WEIN.zip)
+* [WEIN](https://drive.google.com/file/d/10J7_xg37C5IvBLUb5ZKCDnwy88fNhvNP/view?usp=sharing)
 
-* [WEIN BODENGESUNDUNG](https://homepage.boku.ac.at/mwess/2017/original/separate/WEIN_BODENGESUNDUNG.zip)
+* [WEIN BODENGESUNDUNG](https://drive.google.com/file/d/174aI-b3i2M01VBTLdw-Z8QysezZiKB0B/view?usp=sharing)
 
-* [WICKEN - GETREIDE GEMENGE](https://homepage.boku.ac.at/mwess/2017/original/separate/WICKEN_-_GETREIDE_GEMENGE.zip)
+* [WICKEN - GETREIDE GEMENGE](https://drive.google.com/file/d/19Lgddi90XXfQhjngtvt5nuaixaF8v26D/view?usp=sharing)
 
-* [WINTERDINKEL (SPELZ)](https://homepage.boku.ac.at/mwess/2017/original/separate/WINTERDINKEL_SPELZ.zip)
+* [WINTERDINKEL (SPELZ)](https://drive.google.com/file/d/1hZwsELaipKGdWGRaNtwoM4FPY5PlIVLw/view?usp=sharing)
 
-* [WINTERDINKEL (SPELZ) / FELDGEMUESE](https://homepage.boku.ac.at/mwess/2017/original/separate/WINTERDINKEL_SPELZ_-_FELDGEMUESE.zip)
+* [WINTERDINKEL (SPELZ) / FELDGEMUESE](https://drive.google.com/file/d/1sZijF17iBCs1UtAM9OmKggm5_ygukHio/view?usp=sharing)
 
-* [WINTERGERSTE](https://homepage.boku.ac.at/mwess/2017/original/separate/WINTERGERSTE.zip)
+* [WINTERGERSTE](https://drive.google.com/file/d/15Wdk5ocMQoEEiyAZhS9EslhP68bS8jWa/view?usp=sharing)
 
-* [WINTERGERSTE / BUCHWEIZEN](https://homepage.boku.ac.at/mwess/2017/original/separate/WINTERGERSTE_-_BUCHWEIZEN.zip)
+* [WINTERGERSTE / BUCHWEIZEN](https://drive.google.com/file/d/1CLE3Ljpgwi7SCDkTxmEeXgcq05fgJN7f/view?usp=sharing)
 
-* [WINTERGERSTE / FELDGEMUESE](https://homepage.boku.ac.at/mwess/2017/original/separate/WINTERGERSTE_-_FELDGEMUESE.zip)
+* [WINTERGERSTE / FELDGEMUESE](https://drive.google.com/file/d/11iy1nczED-yhQliA6W-EWmCqPs2T1D82/view?usp=sharing)
 
-* [WINTERHAFER](https://homepage.boku.ac.at/mwess/2017/original/separate/WINTERHAFER.zip)
+* [WINTERHAFER](https://drive.google.com/file/d/1zzL2bWGQkQ8uF-h_710pXQQ5s-eabq-r/view?usp=sharing)
 
-* [WINTERHARTWEIZEN (DURUM)](https://homepage.boku.ac.at/mwess/2017/original/separate/WINTERHARTWEIZEN_DURUM.zip)
+* [WINTERHARTWEIZEN (DURUM)](https://drive.google.com/file/d/1lkT74oWZ1KV0ijvOSQ_9ExouQ118v0WU/view?usp=sharing)
 
-* [WINTERHARTWEIZEN (DURUM) / BUCHWEIZEN](https://homepage.boku.ac.at/mwess/2017/original/separate/WINTERHARTWEIZEN_DURUM_-_BUCHWEIZEN.zip)
+* [WINTERHARTWEIZEN (DURUM) / BUCHWEIZEN](https://drive.google.com/file/d/1j7M5RpH2QTvGqsIQaHTkHExOB8_-tb5U/view?usp=sharing)
 
-* [WINTERHARTWEIZEN (DURUM) / FELDGEMUESE](https://homepage.boku.ac.at/mwess/2017/original/separate/WINTERHARTWEIZEN_DURUM_-_FELDGEMUESE.zip)
+* [WINTERHARTWEIZEN (DURUM) / FELDGEMUESE](https://drive.google.com/file/d/1AvACsjh7K5qz2zuRZm1GykR13v0wZ4hC/view?usp=sharing)
 
-* [WINTERKUEMMEL](https://homepage.boku.ac.at/mwess/2017/original/separate/WINTERKUEMMEL.zip)
+* [WINTERKUEMMEL](https://drive.google.com/file/d/1j0IBZXayD0_DNQ20uIWxbPQ8nmdZ-k_u/view?usp=sharing)
 
-* [WINTERMENGGETREIDE](https://homepage.boku.ac.at/mwess/2017/original/separate/WINTERMENGGETREIDE.zip)
+* [WINTERMENGGETREIDE](https://drive.google.com/file/d/17rX-TkJ5DxcOjOcOFxj97CG9MvOVSVFV/view?usp=sharing)
 
-* [WINTERMENGGETREIDE / FELDGEMUESE](https://homepage.boku.ac.at/mwess/2017/original/separate/WINTERMENGGETREIDE_-_FELDGEMUESE.zip)
+* [WINTERMENGGETREIDE / FELDGEMUESE](https://drive.google.com/file/d/1yZ2eu4bPWvoITX8AZDzdkUkEpKA6s56q/view?usp=sharing)
 
-* [WINTERMOHN](https://homepage.boku.ac.at/mwess/2017/original/separate/WINTERMOHN.zip)
+* [WINTERMOHN](https://drive.google.com/file/d/1sqPOGmFXsCzoIUz-nTjBrDzrncmxO3Bc/view?usp=sharing)
 
-* [WINTERRAPS](https://homepage.boku.ac.at/mwess/2017/original/separate/WINTERRAPS.zip)
+* [WINTERRAPS](https://drive.google.com/file/d/1h6bcznEwz6Pr7SRqvNkDTdoaW4jypbiK/view?usp=sharing)
 
-* [WINTERROGGEN](https://homepage.boku.ac.at/mwess/2017/original/separate/WINTERROGGEN.zip)
+* [WINTERROGGEN](https://drive.google.com/file/d/16YZIgVHkEaTW2aG2agPF69sW6bMC2x7f/view?usp=sharing)
 
-* [WINTERROGGEN / FELDGEMUESE](https://homepage.boku.ac.at/mwess/2017/original/separate/WINTERROGGEN_-_FELDGEMUESE.zip)
+* [WINTERROGGEN / FELDGEMUESE](https://drive.google.com/file/d/1-JEWQPVOk2If598op3VK3nZRx1los0lE/view?usp=sharing)
 
-* [WINTERRUEBSEN](https://homepage.boku.ac.at/mwess/2017/original/separate/WINTERRUEBSEN.zip)
+* [WINTERRUEBSEN](https://drive.google.com/file/d/1aXctschJE052ukGJ1Y5UNvZWnP5NnSuz/view?usp=sharing)
 
-* [WINTERTRITICALE](https://homepage.boku.ac.at/mwess/2017/original/separate/WINTERTRITICALE.zip)
+* [WINTERTRITICALE](https://drive.google.com/file/d/1cHR6gC1uid9byrmKn7-KO0oPygbmv-SH/view?usp=sharing)
 
-* [WINTERTRITICALE / FELDGEMUESE](https://homepage.boku.ac.at/mwess/2017/original/separate/WINTERTRITICALE_-_FELDGEMUESE.zip)
+* [WINTERTRITICALE / FELDGEMUESE](https://drive.google.com/file/d/1yvvHvDfDCZhbdZyhNBGY8iY7J2wgGxRN/view?usp=sharing)
 
-* [WINTERTRITICALE / HIRSE](https://homepage.boku.ac.at/mwess/2017/original/separate/WINTERTRITICALE_-_HIRSE.zip)
+* [WINTERTRITICALE / HIRSE](https://drive.google.com/file/d/1NV09D_XKVtWDdQKHtPjRVgFUUbTkW8ZQ/view?usp=sharing)
 
-* [WINTERWEICHWEIZEN](https://homepage.boku.ac.at/mwess/2017/original/separate/WINTERWEICHWEIZEN.zip)
+* [WINTERWEICHWEIZEN](https://drive.google.com/file/d/1nRTzvBMSqGb4TmUl6-rChF76fnglqrLP/view?usp=sharing)
 
-* [WINTERWEICHWEIZEN / BUCHWEIZEN](https://homepage.boku.ac.at/mwess/2017/original/separate/WINTERWEICHWEIZEN_-_BUCHWEIZEN.zip)
+* [WINTERWEICHWEIZEN / BUCHWEIZEN](https://drive.google.com/file/d/1420DTcteq-36KA4MK8nvUoTVPIDbMvrp/view?usp=sharing)
 
-* [WINTERWEICHWEIZEN / FELDGEMUESE](https://homepage.boku.ac.at/mwess/2017/original/separate/WINTERWEICHWEIZEN_-_FELDGEMUESE.zip)
+* [WINTERWEICHWEIZEN / FELDGEMUESE](https://drive.google.com/file/d/1pk10NbsKQpDSH2TYtkJw_7lh3avpZ23R/view?usp=sharing)
 
-* [WINTERWICKEN](https://homepage.boku.ac.at/mwess/2017/original/separate/WINTERWICKEN.zip)
+* [WINTERWICKEN](https://drive.google.com/file/d/1LnCRrU3XZWF26P0YvfIARJrB82EuxhgM/view?usp=sharing)
 
-* [ZUCKERMAIS](https://homepage.boku.ac.at/mwess/2017/original/separate/ZUCKERMAIS.zip)
+* [ZUCKERMAIS](https://drive.google.com/file/d/1hInjwlKCzFWtwvrznhackuGS6eC55MfT/view?usp=sharing)
 
-* [ZUCKERMAIS / FELDGEMUESE](https://homepage.boku.ac.at/mwess/2017/original/separate/ZUCKERMAIS_-_FELDGEMUESE.zip)
+* [ZUCKERMAIS / FELDGEMUESE](https://drive.google.com/file/d/1LOgKdmBBkaEnjscyLcfLMj6GgnkgF5iJ/view?usp=sharing)
 
-* [ZUCKERRUEBEN](https://homepage.boku.ac.at/mwess/2017/original/separate/ZUCKERRUEBEN.zip)
+* [ZUCKERRUEBEN](https://drive.google.com/file/d/1X-rQyxE6Tt-yZHzXM2EiIWD7WlsEpacH/view?usp=sharing)
 
-* [ZWETSCHKEN](https://homepage.boku.ac.at/mwess/2017/original/separate/ZWETSCHKEN.zip)
+* [ZWETSCHKEN](https://drive.google.com/file/d/1PLR1CNOnFaG7knBGa-YQXyRZ3xmz9NsH/view?usp=sharing)
 

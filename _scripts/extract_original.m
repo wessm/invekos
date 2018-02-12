@@ -151,6 +151,21 @@ end
 
 %% create README
 
+
+% read links to google drive from file
+
+fid = fopen([home, dirname, 'google-drive-links.txt']);
+GD_links = {};
+tline = fgetl(fid);
+while ischar(tline)
+    GD_links = [GD_links, {tline}];
+    tline = fgetl(fid);
+end
+
+fclose(fid);
+
+
+
 fid=fopen([home, dirname, 'README.md'],'w');
 fprintf(fid, '# INVEKOS 2017 separate files for each "Nutzungsart" from AMA\n\n\n');
 for l = 1:numel(list_crop)
@@ -164,7 +179,7 @@ for l = 1:numel(list_crop)
     crop = strrep(crop, ':', '');
     
     
-    fprintf(fid, ['* [', list_crop{l}, '](https://homepage.boku.ac.at/mwess/2017/original/separate/', crop, '.zip)\n\n']);
+    fprintf(fid, ['* [', list_crop{l}, '](', GD_links{l}, ')\n\n']);
 end
 fclose(fid);
     

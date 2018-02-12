@@ -158,11 +158,23 @@ end
 %%  create README file
 
 
+% read links to google drive from file
+
+fid = fopen([home, dirname, 'google-drive-links.txt']);
+GD_links = {};
+tline = fgetl(fid);
+while ischar(tline)
+    GD_links = [GD_links, {tline}];
+    tline = fgetl(fid);
+end
+
+fclose(fid);
+
 
 fid=fopen([home, dirname, 'README.md'],'w');
 fprintf(fid, '# INVEKOS 2017 separate files for each group\n\n\n');
 for l = 1:numel(newclasses)
-    fprintf(fid, ['* [', newclasses{l}, '](https://homepage.boku.ac.at/mwess/2017/improved_groups/separate/', newclasses{l}, '.zip)\n\n']);
+    fprintf(fid, ['* [', newclasses{l}, '](', GD_links{l}, ')\n\n']);
 end
 fclose(fid);
 

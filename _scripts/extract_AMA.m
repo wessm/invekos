@@ -90,6 +90,20 @@ end
 
 %%  create README file
 
+% read links to google drive from file
+
+fid = fopen([home, dirname, 'google-drive-links.txt']);
+GD_links = {};
+tline = fgetl(fid);
+while ischar(tline)
+    GD_links = [GD_links, {tline}];
+    tline = fgetl(fid);
+end
+
+fclose(fid);
+
+
+
 
 
 fid=fopen([home, dirname, 'README.md'],'w');
@@ -98,7 +112,7 @@ fprintf(fid, '# INVEKOS 2017 separate files for AMA Nutzungsart Groups\n\n\n');
 fprintf(fid, 'for the AMA Codes, see [here](https://www.ama.at/getattachment/f3e9b8ab-8533-49f2-8c97-0daf45b06751/Nutzungsarten_Codes_Varianten.pdf)\n\n');
 
 for l = 1:numel(AMA_h)
-    fprintf(fid, ['* [', AMA_h{l}, '](https://homepage.boku.ac.at/mwess/2017/improved_groups/AMA_Nutzungsart/', AMA_h{l}, '.zip)\n\n']);
+    fprintf(fid, ['* [', AMA_h{l}, '](', GD_links{l}, ')\n\n']);
 end
 fclose(fid);
 
