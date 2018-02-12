@@ -7,7 +7,7 @@ INVEKOS Schläge Shapefiles from [data.gv.at](https://www.data.gv.at/), modified
 
 ## improved_groups
 
-shapefile with [AMA Nutzungsart Codes](https://www.ama.at/getattachment/f3e9b8ab-8533-49f2-8c97-0daf45b06751/Nutzungsarten_Codes_Varianten.pdf) and a second, more general group of crop classicifation added (use at your own risk!)
+shapefile with [AMA Nutzungsart Classes](https://www.ama.at/getattachment/f3e9b8ab-8533-49f2-8c97-0daf45b06751/Nutzungsarten_Codes_Varianten.pdf) and a second, more general classification of crop grous added (use at your own risk!)
 
 * [shapefile with the added classes](https://drive.google.com/file/d/1man3FsH3ZINqxtChTQby5iAyXenANYlg/view?usp=sharing)
 
