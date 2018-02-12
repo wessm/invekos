@@ -40,7 +40,8 @@ AMA(isnan(AMA)) = 0;
 new_cl = CL.textdata(2:end, 3);
 new_cl_id = CL.data(:, 1);
 
-
+%  make directory
+dirname = [out_dir, 'AMA_Nutzungsarten/'];
 
 %% loop through classes
 
@@ -55,8 +56,7 @@ for c = 1:numel(AMA_h)
     
     AMA_h{c}
     
-    %  make directory
-    dirname = [out_dir, 'AMA_Nutzungsarten/'];
+
     
     if exist([home, dirname], 'dir') ~= 7
         mkdir([home, dirname]);
@@ -103,7 +103,7 @@ end
 fclose(fid);
 
 
-
+AMA_h=sort(AMA_h);
 
 
 fid=fopen([home, dirname, 'README.md'],'w');
