@@ -60,6 +60,11 @@ for c = 1:numel(AMA_h)
     all = [all, [AMA_h{c}, ' INTEGER(1)']];
 end
 
+%  make directory
+dirname = [out_dir, 'separate/'];
+    
+newclasses = unique(new_cl);
+
 %% add fields to table
 
 for c = 1:numel(all)
@@ -112,7 +117,7 @@ end
 
 %% loop through unique list and extract
 
-newclasses = unique(new_cl);
+
 
 for l = 1:numel(newclasses)
     
@@ -122,8 +127,7 @@ for l = 1:numel(newclasses)
     %  remove invalid characters
     class = newclasses{l}
     
-    %  make directory
-    dirname = [out_dir, 'separate/'];
+
     
     if exist([home, dirname], 'dir') ~= 7
         mkdir([home, dirname]);
@@ -169,6 +173,8 @@ while ischar(tline)
 end
 
 fclose(fid);
+
+newclasses = sort(newclasses);
 
 
 fid=fopen([home, dirname, 'README.md'],'w');
