@@ -95,6 +95,9 @@ else
     list_crop = importdata([home, out_dir, crop_list_file]);
 end
 
+%  make directory
+dirname = [out_dir, 'separate/'];
+
 
 %% loop through unique list and extract
 
@@ -117,8 +120,7 @@ for l = 1:numel(list_crop)
     crop = strrep(crop, ':', '');
 
     
-    %  make directory
-    dirname = [out_dir, 'separate/'];
+
     
     if exist([home, dirname], 'dir') ~= 7
         mkdir([home, dirname]);
@@ -164,22 +166,26 @@ end
 
 fclose(fid);
 
+crop2 = list_crop;
+crop2 = strrep(crop2, '/', '-');
+crop2 = strrep(crop2, ' ', '_');
+crop2 = strrep(crop2, '(', '');
+crop2 = strrep(crop2, ')', '');
+crop2 = strrep(crop2, ':', '');
+
+
+crop2 = sort(crop2);
 
 
 fid=fopen([home, dirname, 'README.md'],'w');
 fprintf(fid, '# INVEKOS 2017 separate files for each "Nutzungsart" from AMA\n\n\n');
-for l = 1:numel(list_crop)
+for l = 1:numel(crop2)
     
     
-    crop = list_crop{l};
-    crop = strrep(crop, '/', '-');
-    crop = strrep(crop, ' ', '_');
-    crop = strrep(crop, '(', '');
-    crop = strrep(crop, ')', '');
-    crop = strrep(crop, ':', '');
+
     
     
-    fprintf(fid, ['* [', list_crop{l}, '](', GD_links{l}, ')\n\n']);
+    fprintf(fid, ['* [', crop2{l}, '](', GD_links{l}, ')\n\n']);
 end
 fclose(fid);
     
