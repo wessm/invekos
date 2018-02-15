@@ -11,7 +11,7 @@ shapefile with [AMA Nutzungsart Classes](https://www.ama.at/getattachment/f3e9b8
 
 * [shapefile with the added classes](https://drive.google.com/file/d/1man3FsH3ZINqxtChTQby5iAyXenANYlg/view?usp=sharing)
 
-* [CSV file](https://github.com/wessm/invekos/blob/master/2017/improved_groups/classification.csv) to explain the classification
+* [CSV file](https://github.com/wessm/invekos/blob/master/2017/improved_groups/classification.csv) to explain how the original classes were sub-classified
 
 * [separate shapefiles](https://github.com/wessm/invekos/tree/master/2017/improved_groups/AMA_Nutzungsarten) for each AMA Nutzungsart class
 
